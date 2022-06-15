@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cadastro-inscricao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cauesilva1/atividade-de-cadastro-de-peca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cauesilva1/atividade-de-cadastro-de-peca/issues"
+  },
+  "homepage": "https://github.com/cauesilva1/atividade-de-cadastro-de-peca#readme",
+  "dependencies": {
+    "@techmmunity/eslint-config": "^5.2.3",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.17.0",
+    "prettier": "^2.7.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "root": true,
+    "extends": "@techmmunity/eslint-config/common",
+    "rules": {
+        "no-console":"off",
+        "no-magic-numbers": "off",
+        "linebreak-style":"off"
+    }
+}
